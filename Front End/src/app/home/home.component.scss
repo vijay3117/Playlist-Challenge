@@ -1,0 +1,31 @@
+table {
+  width: 100%;
+}
+
+.play-list-sec {
+  margin: 36px 60px 0px 60px;
+
+  .cursor-pointer {
+    cursor: pointer;
+  }
+  .search-section {
+    div {
+      display: inline-block;
+    }
+  }
+  .mat-row:nth-child(odd) {
+    background-color: rgba(0, 0, 0, 0.05);
+  }
+
+  input[type=file] {
+    position: relative;
+    top: 150px;
+    font-family: calibri;
+    width: 150px;
+    padding: 10px;
+    border: 1px dashed #bbb;
+    text-align: center;
+    background-color: #ddd;
+    cursor: pointer;
+  }
+}
