@@ -1,6 +1,6 @@
 # Project Title
 
-Playlist Chanllenge 
+Playlist Challenge 
 
 # Getting Started
 
